@@ -1,0 +1,58 @@
+Q1. Find the data	type of	a if a=9.
+a=9
+print(a, "is a type of", type(a))
+
+Q2. Find the data	type of a if a=9.
+a=9
+print(a, "is a type of", type(a))
+
+
+Q3. Find the data	type of	a if a='9.' .
+a='9.'
+print(a, "is a type of", type(a))
+
+
+Q4. Find the data	type of	a if a=(9).
+a=(9)
+print(a, "is a type of", type(a))
+
+
+Q5. Find the data	type of	a if a=False.
+a=False
+print(a, "is a type of", type(a))
+
+
+Q6. Find the data	type of	a if a=[1,2,3].
+a=[1, 2, 3]
+print(a, "is a type of", type(a))
+
+
+Q7. Find the data type of a if a=(1,2,3).
+a=(1, 2, 3)
+print(a, "is a type of", type(a))
+
+
+Q8. Find the data type of	a if a={'key': 9}.
+a={'key': 9}
+print(a, "is a type of", type(a))
+
+
+Q9. Find the data type of a if a=1 +	9j.
+a=1 + 9j
+print(a, "is a type of", type(a))
+
+
+Q10. Set a=1 and b=2. What data type	is a/b?
+a=1
+b=2
+print(type(a/b))
+
+
+Q11. Create a dictionary numbers = {'one':1, 'two':2, 'three':3}.	Pull out the number	'2'	by calling the key 'two'.
+dict = {'one':1, 'two':2, 'three':3}
+print(dict['two'])
+
+
+Q12. Create a tuple with the numbers 8, 9, and 10?
+t=(8, 9, 10)
+print("Tuple: ",t) 
